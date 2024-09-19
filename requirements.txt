@@ -1,0 +1,13 @@
+pydub
+moviepy
+vaderSentiment
+transformers
+torch 
+torchaudio
+SpeechRecognition
+spacy
+gensim
+nltk
+pyannote.audio
+langdetect
+google-cloud-speech
